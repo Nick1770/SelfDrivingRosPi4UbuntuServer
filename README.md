@@ -61,7 +61,7 @@ Update ~/.bashrc with ip address of pi and master and source it
    cd ..
    ```
    ```sh
-   catkin_ws make
+   catkin_make
    ```
    ```sh
    cd catkin_ws/src/Cmd2Serial/src
