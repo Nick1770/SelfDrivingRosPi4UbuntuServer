@@ -75,7 +75,7 @@ Update ~/.bashrc with ip address of pi and master and source it
 ### To Run
 1. Run this on the raspberry pi
    ```sh
-   roslaunch turtlebot3_autorace_camera turtlebot3_autorace_camera_pi.launchN
+   roslaunch turtlebot3_autorace_camera turtlebot3_autorace_camera_pi.launch
    ```
 2. Run this on the master machine
    ```sh
